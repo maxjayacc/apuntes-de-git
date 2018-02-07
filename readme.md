@@ -1,4 +1,6 @@
 ##Curso Git desde cero
+sistema de control de versiones para el manteniemiento
+
 
 ### zona de cambio 3 hahaha
 que hago aqui zoina1
