@@ -1,4 +1,11 @@
 ##Curso Git desde cero
+
+### zona de cambio 3 hahaha
+que hago aqui zoina1
+la cabezona 
+zona dos 2
+la cebezona
+
 ### se ah modificado
 1 hola amigo
 2 como estas
