@@ -1,2 +1,2 @@
 ## gitignore
-es para innorar archivos en tiende pe amorcito melissa
+es para ignorar archivos en tiende 

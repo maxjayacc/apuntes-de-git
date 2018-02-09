@@ -1,2 +1,2 @@
 ### git diff
-la difereNCIA PS CTM
+nos muestra la diferencias

@@ -1,6 +1,6 @@
 ### git commit 
 este comando se utiliza en el apre de preparacion para la confirmacion 
-amunete ctm
+
 
 
 ### git commit -a -m "mensaje del commit "
