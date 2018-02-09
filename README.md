@@ -11,6 +11,6 @@ que hago aqui
 3 bien y tu
 
 
-9jajajajj q mierda este cambio no lo vi 
+este cambio no lo vi 
 ### 
 Esta linea fue creada en la rama master
